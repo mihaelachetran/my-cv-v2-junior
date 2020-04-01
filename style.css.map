@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/_component/layout/layout.scss"],"names":[],"mappings":"AACA,EACE,SAAU,CACV,QAAS,CACT,6BAAY,CAAZ,qBAAsB","file":"style.css","sourcesContent":["// quickly reset margin, padding and box-sizing to all elements\r\n* {\r\n  padding: 0;\r\n  margin: 0;\r\n  box-sizing: border-box;\r\n}"]}
